@@ -5,7 +5,7 @@ Crawler Engineer and Full-Stack Developer in Learning
 -----------------------------------------------------
 
 * 🌍  I'm based in ChongQing
-* 🖥️  See my portfolio at [Blog](http://blog.alyn.fun)
+* 🖥️  See my portfolio at [Blog](http://blog.alyn.cc)
 * ✉️  You can contact me at [yleen@foxmail.com](mailto:yleen@foxmail.com)
 * 🧠  I'm learning Full-stack development
 
