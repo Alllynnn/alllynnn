@@ -1,35 +1,155 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alyn
-============================================================================================================================
+<div align="center">
 
-Crawler Engineer and Full-Stack Developer in Learning
------------------------------------------------------
+<!-- HEADER: Dynamic Typing SVG -->
+<a href="https://github.com/Alllynnn">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%E2%9C%A6+Hey%2C+I'm+Alyn;Crawler+Engineer+%7C+Full-Stack+Dev" alt="Typing SVG" />
+</a>
 
-* 🌍  I'm based in ChongQing
-* 🖥️  See my portfolio at [Blog](http://blog.alyn.cc)
-* ✉️  You can contact me at [yleen@foxmail.com](mailto:yleen@foxmail.com)
-* 🧠  I'm learning Full-stack development
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<a href="https://www.github.com/alllynnn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/alllynnn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<!-- Quick Info Badges -->
+<p>
+  <a href="https://blog.alyn.cc"><img src="https://img.shields.io/badge/Blog-blog.alyn.cc-0891b2?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="mailto:yleen@foxmail.com"><img src="https://img.shields.io/badge/Email-yleen@foxmail.com-0891b2?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="https://github.com/Alllynnn"><img src="https://img.shields.io/github/followers/Alllynnn?style=for-the-badge&logo=github&color=0891b2&labelColor=0d1117" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Alllynnn&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
 </p>
 
+</div>
 
-### Socials
+<!-- ═══════════════════════════════════════════════════  ABOUT ME  ═══════════════════════════════════════════════════ -->
 
-<p align="left"> <a href="https://www.github.com/alllynnn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## `> whoami` 🧑‍💻
 
-### Badges
+```python
+class Alyn:
+    def __init__(self):
+        self.name        = "Alyn"
+        self.location    = "ChongQing, China 🇨🇳"
+        self.roles       = ["Crawler Engineer", "Full-Stack Developer"]
+        self.blog        = "https://blog.alyn.cc"
+        self.interests   = ["Web Scraping", "Reverse Engineering", "Data Science"]
+        self.currently   = "Building tools that automate the boring stuff"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something cool together 🚀")
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/alllynnn"><img src="https://github-readme-stats.vercel.app/api?username=alllynnn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alllynnn's GitHub stats" /></a>
+me = Alyn()
+me.say_hi()
+```
 
-<a href="http://www.github.com/alllynnn"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alllynnn&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- ═══════════════════════════════════════════════════  TECH STACK  ═══════════════════════════════════════════════════ -->
 
-<a href="https://github.com/alllynnn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alllynnn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## `> cat tech_stack.md` ⚡
+
+<div align="center">
+
+### 🔤 Languages
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bash&theme=dark" />
+  </a>
+</p>
+
+### 🧩 Frameworks & Libraries
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,nextjs,vue&theme=dark" />
+  </a>
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,cloudflare,vscode&theme=dark" />
+  </a>
+</p>
+
+### 💾 Databases & Storage
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgres&theme=dark" />
+  </a>
+</p>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════  GITHUB STATS  ═══════════════════════════════════════════════════ -->
+
+## `> neofetch --stats` 📊
+
+<div align="center">
+  <a href="https://github.com/Alllynnn">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alllynnn&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&ring_color=0891b2&count_private=true" />
+  </a>
+  <a href="https://github.com/Alllynnn">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alllynnn&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&langs_count=8" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Alllynnn">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alllynnn&theme=algolia&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=c9d1d9&dates=586069&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  </a>
+</div>
+
+<br/>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <a href="https://github.com/Alllynnn">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alllynnn&bg_color=0d1117&color=0891b2&line=0891b2&point=c9d1d9&area=true&area_color=0891b2&hide_border=true&custom_title=Contribution%20Graph" />
+  </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════  FEATURED PROJECTS  ═══════════════════════════════════════════════════ -->
+
+## `> ls ~/projects --featured` 🗂️
+
+<div align="center">
+  <a href="https://github.com/Alllynnn/clash-sub-converter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alllynnn&repo=clash-sub-converter&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/Alllynnn/proxy-pool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alllynnn&repo=proxy-pool&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Alllynnn/Antigravity_TG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alllynnn&repo=Antigravity_TG&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/Alllynnn/js-reverse-mcp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alllynnn&repo=js-reverse-mcp&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
+  </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════  SNAKE  ═══════════════════════════════════════════════════ -->
+
+## `> play snake --contrib` 🐍
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alllynnn/Alllynnn/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alllynnn/Alllynnn/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Alllynnn/Alllynnn/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════  FOOTER  ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer" width="100%" />
+  
+</div>
