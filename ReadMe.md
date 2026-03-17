@@ -2,7 +2,7 @@
 
 <!-- HEADER: Dynamic Typing SVG -->
 <a href="https://github.com/Alllynnn">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%E2%9C%A6+Hey%2C+I'm+Alyn;Crawler+Engineer+%7C+Full-Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%E2%9C%A6+Hey%2C+I'm+Alyn;Crawler+Engineer+%7C+Full-Stack+Dev" alt="Typing SVG" />
 </a>
 
 <!-- Animated Divider -->
