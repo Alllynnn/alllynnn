@@ -121,15 +121,6 @@ me.say_hi()
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Alllynnn/zeabur-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alllynnn&repo=zeabur-monitor&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Alllynnn/js-reverse-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alllynnn&repo=js-reverse-mcp&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
-  </a>
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════  SNAKE  ═══════════════════════════════════════════════════ -->
