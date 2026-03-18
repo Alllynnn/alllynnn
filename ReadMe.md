@@ -2,7 +2,7 @@
 
 <!-- HEADER: Dynamic Typing SVG -->
 <a href="https://github.com/Alllynnn">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%E2%9C%A6+Hey%2C+I'm+Alyn;Crawler+Engineer+%7C+Full-Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%E2%9C%A6+Hey%2C+I'm+Alyn;Crawler+Engineer+%7C+Full-Stack+Dev;AI+Agent+Builder+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <!-- Animated Divider -->
@@ -27,13 +27,14 @@ class Alyn:
     def __init__(self):
         self.name        = "Alyn"
         self.location    = "ChongQing, China 🇨🇳"
-        self.roles       = ["Crawler Engineer", "Full-Stack Developer"]
+        self.roles       = ["Crawler Engineer", "Full-Stack Developer", "AI Agent Builder"]
         self.blog        = "https://blog.alyn.cc"
-        self.interests   = ["Web Scraping", "Reverse Engineering", "Data Science"]
-        self.currently   = "Building tools that automate the boring stuff"
+        self.interests   = ["Coding Agents", "Web Scraping", "Reverse Engineering", "AI Research"]
+        self.daily       = ["Track latest AI news 📰", "Build reusable agents 🤖", "Automate everything ⚙️"]
+        self.philosophy  = "Turn repetitive workflows into autonomous agents"
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool together 🚀")
+        print("Let AI handle the boring stuff, so I can focus on the fun stuff 🚀")
 
 
 me = Alyn()
@@ -74,7 +75,37 @@ me.say_hi()
   </a>
 </p>
 
+### 🤖 AI & Coding Agents
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-F5A623?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-06B6D4?style=for-the-badge&logo=codeium&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-FF6F00?style=for-the-badge&logo=lightning&logoColor=white" />
+</p>
+
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ═══════════════════════════════════════════════  AI AGENT PHILOSOPHY  ═══════════════════════════════════════════════ -->
+
+## `> cat ai_manifesto.md` 🤖
+
+<div align="center">
+
+**「 Let AI handle the repetitive, so humans can focus on the creative. 」**
+
+</div>
+
+> **🔭 AI-First Thinker** — 每日跟踪 AI 前沿动态，从 Coding Agent 到 LLM 新范式，保持对技术边界的敏感度
+>
+> **⚙️ Agent Builder** — 将重复性工作流抽象为可复用的 AI Agent，用自动化替代手动操作，提升 10x 效率
+>
+> **🛠️ Coding with Agents** — 日常使用 Claude Code / Cursor / Antigravity / Codex 等 Coding Agent 进行开发，人机协作是未来
+>
+> **🔗 MCP Enthusiast** — 热衷于构建和使用 MCP 服务器，打通 AI 与外部工具的连接
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
